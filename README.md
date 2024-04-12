@@ -1,9 +1,9 @@
 # pymarkdown
 
 # bib2md.py
-BibTeX to Markdown Converter
+BibTeX to Markdown Converter for Hugo
 
-This Python script converts a BibTeX bibliography file into a Markdown file. The entries in the Markdown file are sorted by year in descending order and formatted in a specific style.
+This Python script is originally intended to be used with Hugo, a popular static site generator. It converts a BibTeX bibliography file into a Markdown file that can be used to create a bibliography page on a Hugo website. The entries in the Markdown file are sorted by year in descending order and formatted in a specific style.
 
 ## Dependencies
 
